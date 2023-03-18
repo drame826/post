@@ -1,2 +1,2 @@
-class ChineseFood < ApplicationRecord
+class ChineseFood < Food
 end
