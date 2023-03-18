@@ -1,2 +1,2 @@
-class ItalianFood < food
+class ItalianFood < ApplicationRecord
 end
